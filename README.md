@@ -55,22 +55,22 @@ __ __ __
 ### [3. Multi Layer Perceptrons - Part 3](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%203%20%5BMLP%5D.ipynb)
 - CIFAR-10 image classification with deeper MLP
 
-### [4. Convolutional Neural Networks - Part 1](https://github.com/rezapci/blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%204%20%5BCNN%5D.ipynb)
+### [4. Convolutional Neural Networks - Part 1](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%204%20%5BCNN%5D.ipynb)
 - CIFAR-10 image classification with CNN
 
-### [5. Convolutional Neural Networks - Part 2](https://github.com/rezapci//blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%205%20%5BCNN%5D.ipynb)
+### [5. Convolutional Neural Networks - Part 2](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%205%20%5BCNN%5D.ipynb)
 - CIFAR-10 image classification with CNN
 
-### [6. Convolutional Neural Networks - Part 3](https://github.com/rezapci/PyTorch//blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%206%20%5BCNN%5D.ipynb)
+### [6. Convolutional Neural Networks - Part 3](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%206%20%5BCNN%5D.ipynb)
 - IMDB review sentiment classification with CNN
 
-### [7. Convolutional Neural Networks - Part 4](https://github.com/rezapci/PyTorch//blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%207%20%5BCNN%5D.ipynb)
+### [7. Convolutional Neural Networks - Part 4](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%207%20%5BCNN%5D.ipynb)
 - IMDB review sentiment classification with CNN
 
-### [8. Recurrent Neural Networks - Part 1](https://github.com/rezapci/PyTorch//blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%208%20%5BRNN%5D.ipynb)
+### [8. Recurrent Neural Networks - Part 1](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%208%20%5BRNN%5D.ipynb)
 -IMDB review sentiment classification with RNN
 
-### [9. Recurrent Neural Networks - Part 2](https://github.com/rezapci/PyTorch//blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%209%20%5BRNN%5D.ipynb)
+### [9. Recurrent Neural Networks - Part 2](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%209%20%5BRNN%5D.ipynb)
 - IMDB review sentiment classification with RNN
 
 ### [10. CNN-RNN network](https://github.com/rezapci/PyTorch//blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%2010%20%5BCNN-RNN%5D.ipynb)
