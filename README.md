@@ -73,5 +73,5 @@ __ __ __
 ### [9. Recurrent Neural Networks - Part 2](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%209%20%5BRNN%5D.ipynb)
 - IMDB review sentiment classification with RNN
 
-### [10. CNN-RNN network](https://github.com/rezapci/PyTorch//blob/master/PyTorch%20Exercise/DL-with-pytorch%20-%2010%20%5BCNN-RNN%5D.ipynb)
+### [10. CNN-RNN network](https://github.com/rezapci/PyTorch/blob/master/PyTorch%20Exercise/Deep%20Learning%20with%20PyTorch/DL-with-pytorch%20-%2010%20%5BCNN-RNN%5D.ipynb)
 - Fashion MNIST classification with CNN-RNN
