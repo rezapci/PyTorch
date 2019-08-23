@@ -1,7 +1,17 @@
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+      
+| Name | Description | Date
+| :- |-------------: | :-:
+|Reza Hashemi| PyTorch Exercise  | Finalized on 23rd of August 2019 | width="750" align="center"></a></p>
+</div>
+
+
 # PyTorch-learners-tutorial
 - PyTorch tutorial for learners
 - Codes are compatible with torch version 1.0.0 +
 - Written in Google Colaboratory (.ipynb files)
+https://drive.google.com/drive/folders/1iA4ajGTgjXzi5FAmppJjcp7bOEtpfE-O?usp=sharing
 - - - 
 
 ![](https://pytorch.org/tutorials/_images/pytorch-logo-flat.png)
